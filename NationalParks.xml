@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+<NationalParks>
     <NationalPark Rating="4.9">
         <Name>Grand Canyon</Name>
         <Phone>928-638-7496</Phone>
@@ -133,6 +133,30 @@
             <City>Moose</City>
             <State>WY</State>
             <Zip>83012</Zip>
+        </Address>
+    </NationalPark>
+
+    <NationalPark Rating="4.8">
+        <Name>Olympic</Name>
+        <Phone>360-565-3130</Phone>
+        <Address NearestAirport="Seattle-Tacoma">
+            <Number>3002</Number>
+            <Street>Mount Angeles Rd</Street>
+            <City>Port Angeles</City>
+            <State>WA</State>
+            <Zip>98362</Zip>
+        </Address>
+    </NationalPark>
+
+    <NationalPark>
+        <Name>Everglades</Name>
+        <Phone>305-242-7700</Phone>
+        <Address NearestAirport="Miami International">
+            <Number>40001</Number>
+            <Street>State Road 9336</Street>
+            <City>Homestead</City>
+            <State>FL</State>
+            <Zip>33034</Zip>
         </Address>
     </NationalPark>
 </NationalParks>
