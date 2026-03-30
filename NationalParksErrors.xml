@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark>
+    <NationalPark Rating="4.9">
+        <Name>Grand Canyon</Name>
+        <Name>The Grand Canyon</Name>
+        
+        <Address>
+            <Number>8</Number>
+            <Street>S Entrance Road</Street>
+            <City>Grand Canyon</City>
+            <State>AZ</State>
+            <Zip>86023</Zip>
+        </Address>
+    </NationalPark>
+
+    <NationalPark>
+        <Name>Yosemite</Name>
+        <Phone>209-372-0200</Phone>
+        <Address NearestAirport="Fresno">
+            <Number>9039</Number>
+            <Street>Village Dr</Street>
+            <City>Yosemite Valley</City>
+            <State>CA</State>
+            <Zip>95389</Zip>
+</NationalPark>
